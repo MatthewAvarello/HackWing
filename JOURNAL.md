@@ -4,6 +4,13 @@ author: "Matthew Avarello"
 description: "A custom Dev tool that copies the features of the Flipper Zero"
 created_at: "2026-05-28"
 ---
-# May 28: Testing Journal
-Just testing out how to do journals. Disregard any hours from this entry and this is done as a test.
-**Total time spent: 1 hour**
+# June 2: First research/look
+I did some quick research on the features the flipper zero has, what they are, and what I personally want for HackWing. Main features of what I would like to include:
+- Infared Transciever
+- GPIO pins
+- RFID and NFC capabilities
+- Sub one ghz Transciever
+  
+  [Click this to see timelapsed research(Lapse my GOAT)](https://lapse.hackclub.com/timelapse/rrp1cEFKhQNK)
+  
+**Total time spent: 30 minutes**
